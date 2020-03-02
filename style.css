@@ -1,0 +1,116 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+header
+{
+	background-image:url(Car.png);
+	height:100vh;
+	width:100%;
+	background-position:center;
+	
+	
+}
+.nav-bar
+{
+	background:rgba(0,0,0,0.5);
+	height:66px;
+	overflow:hidden;
+}
+.logo
+{
+	margin:5px 20px;
+	height:55px;
+}
+.menu
+{
+	float:right;
+	list-style:none;
+	margin:10px;
+	
+}
+.menu li
+{
+	display:inline-block;
+	margin:15px 1px;
+	
+}
+.menu li a 
+{
+	text-decoration:none;
+	color:#fff;
+	padding:5px 2px;
+	font-family:sans-serif;
+	letter-spacing:1px;
+	border:1px solid aqua;
+
+}
+.menu li a:hover
+{
+	background: #fff;
+	transition:.4s;
+	color:#000;
+	
+	
+}
+.welcome
+{
+	position:relative;
+	text-align:center;
+	color:lime;
+	top:200px;
+	
+}
+.welcome h1
+{
+	font-size:50px;
+	margin:10px;
+	
+}
+.btn
+{
+	font-size:15px;
+	letter-spacing:2px;
+	margin:3px;
+	padding:7px 10px;
+	text-decoration:none;
+	border:1px solid yellow;
+}
+.btn1
+{
+	background:green;
+	color:#000;
+}
+.btn2
+{
+	color:#fff;
+}
+.btn2:hover
+{
+	background:blue;
+	color:#000;
+	transition:4s;
+	
+}
+.footer
+{
+	background-color:black;
+    width:100%;
+	height:60px;
+	text-align:center;
+	color:purple ;
+	padding-top:33px;
+	
+  
+}
+
+
+
+	
+
+
+
+
+
+	
